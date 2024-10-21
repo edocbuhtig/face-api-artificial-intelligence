@@ -1,4 +1,4 @@
-# Facial recognition system
+# AI/ML Facial Recognition System Starter
 AI Models Driven (Facial recognition system) Starter project using,NODE & Javascript Face API Library
 ## Set-up Steps:
 - git clone repo
